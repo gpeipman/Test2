@@ -1,2 +1,4 @@
 # Test2
-Tunnis testimiseks
+Tunnis testimiseks!
+
+[Users guide](./users-guide.md)
