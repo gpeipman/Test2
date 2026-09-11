@@ -1,10 +1,13 @@
-﻿namespace HelloWorldApp
+﻿using HelloWorldLib;
+
+namespace HelloWorldApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var hello = HelloWorld.GetHello();
+            Console.WriteLine(hello);
         }
     }
 }

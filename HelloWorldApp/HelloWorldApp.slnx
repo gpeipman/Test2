@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="HelloWorldApp/HelloWorldApp.csproj" />
+  <Project Path="HelloWorldLib/HelloWorldLib.csproj" Id="2c5dba68-b9f7-45e7-86e0-2904aed7dc21" />
+  <Project Path="HelloWorldWebApp/HelloWorldWebApp.csproj" Id="c782f7f2-e9a2-4f13-808e-7bf897cf6b00" />
 </Solution>
